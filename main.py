@@ -115,4 +115,7 @@ def fucklisturl():
             time.sleep(15)
             fuckurl(url)
 
+
+
 fuckmainurl("https://odb.lzacg.one/")
+#fucklisturl()
